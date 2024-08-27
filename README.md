@@ -4,4 +4,5 @@
 3. Combining tasks 1 and 2 to calculate years, months, weeks, and days from your birthday
 4. Determine the day of the week you were born
 5. Convert a Solar Hijri birth date to Gregorian date
-6. Implement the decision tree 
+6. Implement the decision tree in the picture below
+https://imgurl.ir/uploads/v1801_tree.jpg
